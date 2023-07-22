@@ -24,12 +24,13 @@ E. ADDITION
 
 
 (b) Contact info.: Myung (Michael) Cho 
-- Email: myung-cho@uiowa.edu, michael.myung.cho@gmail.com
-- Homepage: http://user.engineering.uiowa.edu/~myucho/index.htm
+- Email: michael.myung.cho@gmail.com
+- Homepage: https://sites.google.com/view/myungcho/home
 
 
 F. REFERENCE PAPER: 
 [1] Myung Cho, Weiyu Xu, and Lifeng Lai, "Compressed Hypothesis Testing: To Mix or Not to Mix?"
+https://arxiv.org/abs/1609.07528
 
 
 
